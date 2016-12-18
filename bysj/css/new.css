@@ -1,0 +1,146 @@
+
+.container{
+	padding-left: 0;
+	padding-right: 0;
+}
+/*我的最新导航*/
+.navtop-p span{
+vertical-align:text-bottom;
+padding-left: 2em;
+}
+.navtop-p svg{
+	 color: #E8504F;
+}
+/*图片轮播*/
+	html {
+		font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+		background-color: white;
+		font-weight: 300;
+	}
+.lbdh{
+	margin-top: 33px ;
+	padding-left: 0;
+	padding-right: 0;
+}
+.lbdh-divo{
+	margin-top:14px;
+}
+
+/*图片下拉导航*/
+/*横向列表*/
+body{
+overflow-x: hidden;
+}
+.hxjs{
+	margin-top: 10px;
+	border-bottom: 1px solid pink;
+	display: block;
+}
+
+.hxjs-zb p{
+	margin-left:10px;
+	margin-top:15px;
+}
+.hxjs-zb-name{
+	padding-left: 10px;
+	font-size: 11px;
+	padding-top: 2em;
+	display: inline-block;
+
+}
+.hxjs-zb svg{	
+	vertical-align:middle;
+	font-size: 14px;
+	color: grey;
+	display: inline-block;
+}
+.hxjs-yt {
+	background: url(../images/z1.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 8em;
+	height:8em;
+	float: right;
+
+}
+.hxjs-yt-1{
+	background: url(../images/hxjs6-6.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 115px;
+	height:8em;	
+	float: right;
+}
+.hxjs-yt-2{
+	background: url(../images/hxjs8-8.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 115px;
+	height:8em;
+	float: right;	
+}
+.hxjs-yt-3{
+	background: url(../images/hxjs17-17.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 115px;
+	height:8em;
+	float: right;	
+}
+.hxjs-yt-4{
+	background: url(../images/hxjs18-18.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 115px;
+	height:8em;
+	float: right;	
+}
+.hxjs-yt-6{
+	background: url(../images/hxjs7-7.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 115px;
+	height:8em;
+	float: right;	
+}
+
+/*星期图片*/
+.xqrq{
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+.xqtp img{
+	width: 100%;
+	height:16em;
+	background-repeat: no-repeat;
+}
+.xqtp-bottom span{
+	padding-right: 15px;
+}
+.xqtp-middle {
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.xqtp-bottom{
+	padding-left: 10px;
+}
+.xqtp-bottom svg{
+	vertical-align:middle;
+	font-size: 14px;
+	color: grey;
+	display: inline-block;
+}
+.xqtpo{
+	border-bottom: 1px solid pink;
+}
+/*底部导航*/
+.lst-container{
+	padding-bottom: 49px;
+}
+.dbdh-active svg{
+	color: #E8504F;
+}
+.dbdh-active span{
+	color: #E8504F;
+}

@@ -1,0 +1,55 @@
+
+@font-face {
+  font-family: 'iconfont';
+  src: url('iconfont.eot');
+  src: url('iconfont.eot?#iefix') format('embedded-opentype'),
+  url('fonts/iconfont.woff') format('woff'),
+  url('fonts/iconfont.ttf') format('truetype'),
+  url('fonts/iconfont.svg#iconfont') format('svg');
+}
+
+/*我的顶部导航*/
+.tpdh{
+	border-bottom: 1px solid grey;
+	background-color: white;
+}
+.icon {
+   width: 1em; height: 1em;
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+   font-size:2em;
+}
+.icon-o{
+	float: left;
+	color: #E8504F;
+}
+.icon-t{
+	float: right;
+}
+.navtop{
+	height:34px;
+}
+.navtop-p{
+	margin: 3px auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 2em;
+}
+/*底部导航*/
+.dbdh{
+	text-align: center;
+}
+.dbdh svg{
+	display: block;
+	margin: 0 auto;
+}
+.dnavbar{
+	border-top: 1px solid grey;
+	bottom: 0px;
+	background-color: white;
+}
+.dbdh a{
+	text-decoration: none;
+	color: black;
+}
